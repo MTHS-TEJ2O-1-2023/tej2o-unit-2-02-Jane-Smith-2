@@ -2,7 +2,7 @@
  *
  * Created by: Jane Smith
  * Created on: Sep 2020
- * This program ...
+ * This program shows "Hello, MTHS!" on the screen
 */
 
 basic.showString('Hello, MTHS!')
